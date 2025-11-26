@@ -121,7 +121,7 @@
 
     <section class="section">
       <h2>تماس</h2>
-      <p>09202041109(GitHub / LinkedIn / ایمیل)khadivaram@gmail.com</p>
+      <p>09*******(GitHub / LinkedIn / ایمیل)khadivaram@gmail.com</p>
     </section>
   </div>
 
