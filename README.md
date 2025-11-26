@@ -1,8 +1,9 @@
-<DOCTIPE html!>
+<DOCTIPEhtml!>
 <html>
 <head>
 </head> 
-<title>  علیرضا خدیور
+<title> 
+    علیرضا خدیور
 </title>
 <body> 
 <p>
