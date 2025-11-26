@@ -1,13 +1,11 @@
 
 <DOCTIPE html!>
     <html>
-        <head>
+<head>
 
 
-            </head>
-        <title>
- بیوگرافی علیرضا خدیور
-        </title>
+                                                                                                                                                               </head>   <title>  علیرضا خدیور
+                                                                                                                                                                       </title>
         <body>
             <p>
                 <center>
