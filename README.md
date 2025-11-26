@@ -1,10 +1,11 @@
 <DOCTYPE html!>
 <html>
 <head>
-</head> 
 <title> 
     علیرضا خدیور
 </title>
+   </head> 
+ 
 <body> 
 <p>
 <center>
