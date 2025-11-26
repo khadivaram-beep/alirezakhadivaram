@@ -35,6 +35,10 @@
       padding:28px 20px;
       text-align:center;
     }
+    header{
+      <"div class="profile-box>
+      img src="file.ali.jpg.png">
+      <alt=ALIREZA KHADIVAR </dive>
     header h1{
       margin:0;
       font-size:36px;
