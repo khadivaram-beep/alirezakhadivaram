@@ -121,7 +121,7 @@
 
     <section class="section">
       <h2>تماس</h2>
-      <p>در صورت تمایل اطلاعات تماس یا لینک‌پروفایل (GitHub / LinkedIn / ایمیل) را اینجا اضافه کن.</p>
+      <p>09202041109(GitHub / LinkedIn / ایمیل)khadivaram@gmail.com</p>
     </section>
   </div>
 
