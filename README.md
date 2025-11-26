@@ -38,7 +38,7 @@
     header{
       <"div class="profile-box>
       img src="file.ali.jpg.png">
-      <alt=ALIREZA KHADIVAR </dive>
+      <"alt=ALIREZA KHADIVAR </dive>
     header h1{
       margin:0;
       font-size:36px;
