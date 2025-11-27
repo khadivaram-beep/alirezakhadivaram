@@ -7,9 +7,6 @@
 
   <!-- استایل ساده و داخلی (بدون فایل جدا) -->
   <style>
-      <"div class="profile-box>
-      img src="file.ali.jpg.png">
-      <"alt=ALIREZA KHADIVAR </dive>
     }
     /* تنظیم کلی صفحه */
     body{
