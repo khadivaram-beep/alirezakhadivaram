@@ -22,6 +22,7 @@
       -moz-osx-font-smoothing:grayscale;
     }
  <body>
+    <p>
 <div class="profile-box" style="text-align:center; margin:20px 0;">
   <img src="file.ali.jpg.png" alt="Ali" style="max-width:320px; width:100%; height:auto; border-radius:8px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
   <p style="margin-top:8px; font-family:Tahoma, Arial, sans-serif;">file.ali.jpg.png</p>
